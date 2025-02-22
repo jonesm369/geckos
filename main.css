@@ -9,7 +9,7 @@ body{
 #container{
 width: 800px;
     margin: 0 auto;
-    background-color: rgb(224, 124, 149);
+    background-color: rgba(224, 124, 149, 0.719);
 }
 .left{
     width: 380px;
